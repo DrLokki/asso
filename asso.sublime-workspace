@@ -1,0 +1,1030 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"hea",
+				"header\tTag"
+			],
+			[
+				"colo",
+				"console.log"
+			],
+			[
+				"interconti",
+				"intercommunautaires"
+			],
+			[
+				"le",
+				"lenght"
+			],
+			[
+				"se",
+				"self"
+			],
+			[
+				"cmd",
+				"cmd_len"
+			],
+			[
+				"cm",
+				"cmd_len"
+			],
+			[
+				"l",
+				"lenght"
+			],
+			[
+				"i",
+				"if\tIf Condition"
+			],
+			[
+				"sel",
+				"selection"
+			],
+			[
+				"col",
+				"color\tproperty"
+			],
+			[
+				"grid",
+				"grid-template-columns\tproperty"
+			],
+			[
+				"fon",
+				"font-family\tproperty"
+			],
+			[
+				"back",
+				"background-color\tproperty"
+			],
+			[
+				"tran",
+				"transition\tproperty"
+			],
+			[
+				"tex",
+				"text-transform\tproperty"
+			],
+			[
+				"in",
+				"inline-block\tdisplay"
+			],
+			[
+				"border-r",
+				"border-radius\tproperty"
+			],
+			[
+				"bac",
+				"background-color\tproperty"
+			],
+			[
+				"text",
+				"text-transform\tproperty"
+			],
+			[
+				"wa",
+				"wave-small.png\tw:390 h:47"
+			],
+			[
+				"marg",
+				"margin\tproperty"
+			],
+			[
+				"font",
+				"font-size\tproperty"
+			],
+			[
+				"ali",
+				"align-items\tproperty"
+			],
+			[
+				"flex",
+				"flex-direction\tproperty"
+			],
+			[
+				"border",
+				"border-bottom\tproperty"
+			],
+			[
+				"space",
+				"space-between\tjustify-content"
+			],
+			[
+				"just",
+				"justify-content\tproperty"
+			],
+			[
+				"al",
+				"align-items\tproperty"
+			],
+			[
+				"paddin",
+				"padding\tproperty"
+			],
+			[
+				"max-",
+				"max-width\tproperty"
+			],
+			[
+				"wi",
+				"width\tproperty"
+			],
+			[
+				"list",
+				"list-style\tproperty"
+			],
+			[
+				"margin",
+				"margin\tproperty"
+			],
+			[
+				"box",
+				"box-sizing\tproperty"
+			],
+			[
+				"he",
+				"header\tTag"
+			],
+			[
+				"h",
+				"html\thtml"
+			],
+			[
+				"mar",
+				"margin-top\tproperty"
+			],
+			[
+				"s",
+				"style"
+			],
+			[
+				"co",
+				"color\tproperty"
+			],
+			[
+				"li",
+				"link\tTag"
+			],
+			[
+				"nav",
+				"navbar"
+			],
+			[
+				"inl",
+				"inline\tdisplay"
+			],
+			[
+				"d",
+				"display\tproperty"
+			],
+			[
+				"te",
+				"text-align\tproperty"
+			],
+			[
+				"b",
+				"button\tTag"
+			],
+			[
+				"tra",
+				"transform\tproperty"
+			],
+			[
+				"sha",
+				"box-shadow\tproperty"
+			],
+			[
+				"gri",
+				"grid-area\tproperty"
+			],
+			[
+				"grid-t",
+				"grid-template-areas\tproperty"
+			],
+			[
+				"r",
+				"rows\tAttr"
+			],
+			[
+				"f",
+				"form\tTag"
+			],
+			[
+				"met",
+				"meta\tTag"
+			],
+			[
+				"me",
+				"meta\tTag"
+			],
+			[
+				"borde",
+				"border-collapse\tproperty"
+			],
+			[
+				"u",
+				"uppercase\ttext-transform"
+			],
+			[
+				"ca",
+				"colspan\tAttr"
+			],
+			[
+				"t",
+				"td\tTag"
+			],
+			[
+				"fle",
+				"flex\tdisplay"
+			],
+			[
+				"tax",
+				"text-align\tproperty"
+			],
+			[
+				"pa",
+				"padding\tproperty"
+			],
+			[
+				"di",
+				"div\tTag"
+			],
+			[
+				"background-c",
+				"background-color\tproperty"
+			],
+			[
+				"font-",
+				"font-style\tproperty"
+			],
+			[
+				"fav",
+				"fav-items"
+			],
+			[
+				"true",
+				"true"
+			],
+			[
+				"rea",
+				"Read"
+			],
+			[
+				"rec",
+				"record"
+			],
+			[
+				"New",
+				"NewReader"
+			],
+			[
+				"strin",
+				"strings"
+			],
+			[
+				"C",
+				"ChannelID"
+			],
+			[
+				"cha",
+				"ChannelId"
+			],
+			[
+				"Cha",
+				"ChannelMessageSend"
+			],
+			[
+				"To",
+				"ToLower"
+			],
+			[
+				"ma",
+				"magique"
+			],
+			[
+				"ar",
+				"abris"
+			],
+			[
+				"v",
+				"voyez"
+			],
+			[
+				"bra",
+				"brainfuckChiffrement"
+			],
+			[
+				"E",
+				"EndOfHistory"
+			],
+			[
+				"en",
+				"EndOfHistory"
+			],
+			[
+				"re",
+				"read"
+			],
+			[
+				"wo",
+				"word"
+			],
+			[
+				"wor",
+				"wordBuffer"
+			],
+			[
+				"word",
+				"wordBuffer"
+			],
+			[
+				"empla",
+				"emplacement"
+			],
+			[
+				"magi",
+				"magicPhrase"
+			],
+			[
+				"emp",
+				"emplacementTwo"
+			],
+			[
+				"fo",
+				"forp\tfor k,v in pairs()"
+			],
+			[
+				"for",
+				"forp\tfor k,v in pairs()"
+			],
+			[
+				"emplacementT",
+				"emplacementTwo"
+			],
+			[
+				"e",
+				"emplacement"
+			],
+			[
+				"dif",
+				"difEmplacement"
+			],
+			[
+				"empl",
+				"emplacement"
+			],
+			[
+				"em",
+				"emplacementTwo"
+			],
+			[
+				"the",
+				"then"
+			],
+			[
+				"y",
+				"yPosBeta"
+			],
+			[
+				"x",
+				"xPosBeta"
+			],
+			[
+				"dra",
+				"drawCircleWIP"
+			],
+			[
+				"mode",
+				"modem_message"
+			],
+			[
+				"lo",
+				"looc"
+			],
+			[
+				"tu",
+				"turtle"
+			],
+			[
+				"loc",
+				"locate"
+			],
+			[
+				"turn",
+				"turnLeft"
+			],
+			[
+				"PL",
+				"PLATEAUX"
+			],
+			[
+				"PLA",
+				"PLACE"
+			],
+			[
+				"set",
+				"setCursorPos"
+			],
+			[
+				"bl",
+				"blue"
+			],
+			[
+				"ra",
+				"random"
+			],
+			[
+				"o",
+				"ord"
+			],
+			[
+				"c",
+				"cName"
+			],
+			[
+				"p",
+				"path"
+			],
+			[
+				"a",
+				"append"
+			],
+			[
+				"imp",
+				"import"
+			],
+			[
+				"B",
+				"BIN"
+			],
+			[
+				"D",
+				"DIVIDENDE"
+			],
+			[
+				"DI",
+				"DIVIDENDE"
+			],
+			[
+				"num",
+				"number"
+			],
+			[
+				"nu",
+				"number"
+			],
+			[
+				"to",
+				"tonumber"
+			],
+			[
+				"de",
+				"dechexa"
+			],
+			[
+				"if",
+				"if"
+			],
+			[
+				"nb",
+				"nbCraft"
+			],
+			[
+				"getI",
+				"getItemSpace"
+			],
+			[
+				"tim",
+				"time"
+			],
+			[
+				"vert",
+				"vertion"
+			],
+			[
+				"vertion",
+				"vertionMax"
+			],
+			[
+				"read",
+				"readAll"
+			],
+			[
+				"un",
+				"unibite"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "index.html",
+			"settings":
+			{
+				"buffer_size": 0,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					""
+				],
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					"Run"
+				],
+				[
+					"Packages/User/Neko-build.sublime-build",
+					""
+				]
+			],
+			[
+				"Packages/C++/C++ Single File.sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/Lua/Lua.sublime-build",
+					""
+				],
+				[
+					"Packages/User/Neko-build.sublime-build",
+					""
+				]
+			],
+			[
+				"Packages/Lua/Lua.sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/SASS Build/SASS - Compressed.sublime-build",
+					""
+				],
+				[
+					"Packages/SASS Build/SASS.sublime-build",
+					""
+				],
+				[
+					"Packages/User/julia.sublime-build",
+					""
+				],
+				[
+					"Packages/User/Neko-build.sublime-build",
+					""
+				],
+				[
+					"Packages/User/test.sublime-build",
+					""
+				]
+			],
+			[
+				"Packages/SASS Build/SASS.sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/User/neko-build.sublime-build",
+					""
+				],
+				[
+					"Packages/User/Neko.sublime-build",
+					""
+				]
+			],
+			[
+				"Packages/User/Neko.sublime-build",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"packa",
+				"Package Control: Install Package"
+			],
+			[
+				"",
+				"Package Control: Install Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 400.0
+	},
+	"console":
+	{
+		"height": 227.0,
+		"history":
+		[
+			"subprocess.Popen(\"npm init\", shell=True, stdout=subprocess.PIPE).stdout.read()",
+			"print(subprocess.Popen(\"npm init\", shell=True, stdout=subprocess.PIPE).stdout.read())",
+			"subprocess.Popen([\"npm\", \"init\"])",
+			"subprocess.Popen()",
+			"subprocess.run(\"npm init\")",
+			"import subprocess ",
+			"python",
+			"lua",
+			"npm",
+			"npm init",
+			"dsfq",
+			"view.run_command(\"licorne\")",
+			"view.run_command(\"plug.py\")",
+			"view.run_command(\"monplugin.plug\")",
+			"view.run_command(\"plug\")",
+			"plug",
+			"view.run_command(\"plug\")",
+			"example_command",
+			"view.run_command(\"plug\")",
+			"view.run_command(\"plug.py\")",
+			"view.run_command(\"monplugin.plug\")",
+			"view.run_command(\"plug.py\")",
+			"view.run_command(\"plug\")",
+			"view.run_command(\"plug.py\")",
+			"view.run_command(\"monplugin.plug\")",
+			"view.run_command(\"monplugin\")",
+			"view.run_command(\"plug\")",
+			"npm",
+			"Package Control.sublime-package",
+			"import urllib.request,os,hashlib; h = 'df21e130d211cfc94d9b0905775a7c0f' + '1e3d39e33b79698005270310898eea76'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)",
+			"import urllib.request,os,hashlib; h = 'df21e130d211cfc94d9b0905775a7c0f' + ",
+			"import urllib.request,os,hashlib; h = 'df21e130d211cfc94d9b0905775a7c0f' + '1e3d39e33b79698005270310898eea76'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/B/gitLibrary/test/script/script.js",
+		"/B/gitLibrary/test/script/jquerry.js",
+		"/B/gitLibrary/test/script",
+		"/B/gitLibrary/test/listFilaments.json",
+		"/C/Users/lokki/Downloads/csvjson.json",
+		"/C/Users/lokki/Downloads/csvjson (1).json",
+		"/B/gitLibrary/test/style/tailwind.scss",
+		"/B/gitLibrary/test/style/mainStyle.css",
+		"/B/gitLibrary/test/package.json",
+		"/B/gitLibrary/test/tailwind.config.js",
+		"/C/Users/lokki/AppData/Roaming/Sublime Merge/Packages/User/Commit Message.sublime-settings",
+		"/B/gitLibrary/test/test.php",
+		"/B/gitLibrary/test/.gitignore",
+		"/B/gitLibrary/test/testweb.sublime-project",
+		"/B/teraLibrary/xampp/htdocs/Toons/test.js",
+		"/C/Users/lokki/.eslintrc.js",
+		"/B/teraLibrary/xampp/htdocs/Toons/package.json",
+		"/B/teraLibrary/xampp/htdocs/Toons/style.css",
+		"/C/Users/lokki/Desktop/web/test sublim/test.js",
+		"/C/Users/lokki/Downloads/ft_iterative_factorial.c",
+		"/B/teraLibrary/xampp/htdocs/Toons/prout.html",
+		"/B/teraLibrary/xampp/htdocs/Toons/magicsysteme",
+		"/B/teraLibrary/xampp/htdocs/Toons/index.php",
+		"/C/Users/lokki/Desktop/Nouveau document texte.txt",
+		"/C/Users/lokki/package.json",
+		"/C/Users/lokki/Desktop/web/test sublim/html test.html",
+		"/C/Users/lokki/Desktop/web/blockstyle.css",
+		"/C/Users/lokki/Desktop/web/test sublim/style.css",
+		"/C/Users/lokki/Desktop/web/test sublim/test.html",
+		"/B/teraLibrary/xampp/htdocs/Toons/test.sublime-project",
+		"/B/teraLibrary/xampp/htdocs/Toons/test.sublime-workspace",
+		"/C/Users/lokki/AppData/Roaming/Sublime Text 3/Packages/monplugin/dictionary.json",
+		"/C/Users/lokki/AppData/Roaming/Sublime Text 3/Packages/monplugin/licorne.py",
+		"/C/Users/lokki/AppData/Roaming/Sublime Text 3/Packages/EddyMalou LoremIpsum/MalouCommand.py",
+		"/C/Users/lokki/AppData/Roaming/Sublime Text 3/Packages/EddyMalou LoremIpsum/dictionary.json",
+		"/C/Users/lokki/AppData/Roaming/Sublime Text 3/Packages/EddyMalou LoremIpsum/package-metadata.json",
+		"/C/Users/lokki/AppData/Roaming/Sublime Text 3/Packages/monplugin/Default (Windows).sublime-keymap",
+		"/C/Users/lokki/AppData/Roaming/Sublime Text 3/Packages/monplugin/main.sublime-commands",
+		"/C/Users/lokki/AppData/Roaming/Sublime Text 3/Packages/EddyMalou LoremIpsum/Malou.sublime-commands",
+		"/C/Users/lokki/AppData/Roaming/Sublime Text 3/Packages/EddyMalou LoremIpsum/Main.sublime-menu",
+		"/C/Users/lokki/AppData/Roaming/Sublime Text 3/Packages/monplugin/plug.py",
+		"/C/Users/lokki/AppData/Roaming/Sublime Text 3/Packages/User/Default (Windows).sublime-keymap",
+		"/C/Users/lokki/AppData/Roaming/Sublime Text 3/Packages/Default/Default (Windows).sublime-keymap",
+		"/C/Users/lokki/AppData/Roaming/Sublime Text 3/Installed Packages/ayu.sublime-package",
+		"/C/Users/lokki/AppData/Roaming/Sublime Text 3/Packages/User/Emmet.sublime-settings",
+		"/C/Users/lokki/AppData/Roaming/Sublime Text 3/Packages/AutoFileName/autofilename.sublime-settings",
+		"/C/Users/lokki/AppData/Roaming/Sublime Text 3/Packages/Alignment/Base File.sublime-settings",
+		"/C/Users/lokki/AppData/Roaming/Sublime Text 3/Packages/User/GCC.sublime-build",
+		"/C/Users/lokki/AppData/Roaming/Sublime Text 3/Packages/User/SASS1.sublime-build",
+		"/C/Users/lokki/AppData/Roaming/Sublime Text 3/Packages/User/test.sublime-build",
+		"/C/Users/lokki/AppData/Roaming/Sublime Text 3/Packages/User/SublimeMagick.sublime-settings",
+		"/C/Users/lokki/AppData/Roaming/Sublime Text 3/Packages/SublimeMagick/SublimeMagick.sublime-settings",
+		"/C/Users/lokki/Downloads/sexy/style.css",
+		"/C/Users/lokki/Downloads/sexy/script.js",
+		"/C/Users/lokki/Downloads/sexy/YyE835iY.html",
+		"/C/Users/lokki/Downloads/sexy/projet.sublime-project",
+		"/C/Users/lokki/Downloads/sexy/index.html",
+		"/C/Users/lokki/AppData/Roaming/Sublime Text 3/Packages/Markdown Slideshow/test.md",
+		"/C/Users/lokki/AppData/Roaming/Sublime Text 3/Packages/Markdown Slideshow/Default.sublime-keymap",
+		"/C/Users/lokki/AppData/Roaming/Sublime Text 3/Packages/User/GutterColor.sublime-settings",
+		"/C/Users/lokki/Downloads/test5/ex06/ft_is_prime.c",
+		"/C/Users/lokki/Downloads/test5/ex07/ft_find_next_prime.c",
+		"/C/Users/lokki/Downloads/test5/prime.c",
+		"/C/Users/lokki/Downloads/test5/main06.c",
+		"/D/Steel Game/steamapps/common/Starbound/storage/player/statistics",
+		"/D/Steel Game/steamapps/common/Starbound/storage/player/db938813c4d43ca15ef016b24e270eea.player",
+		"/D/Steel Game/steamapps/common/Starbound/doc/lua/playercompanions.md",
+		"/D/Steel Game/steamapps/common/Starbound/doc/lua/utility.md",
+		"/C/Users/lokki/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/C/Users/lokki/AppData/Roaming/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/C/Users/lokki/AppData/Roaming/Sublime Text 3/Packages/User/SublimeOnSaveBuild.sublime-settings",
+		"/C/Users/lokki/AppData/Roaming/Sublime Text 3/Packages/SublimeOnSaveBuild/README.md",
+		"/C/Users/lokki/AppData/Roaming/Sublime Text 3/Packages/SublimeOnSaveBuild/SublimeOnSaveBuild.sublime-settings",
+		"/C/Users/lokki/AppData/Roaming/Sublime Text 3/Packages/User/SASS.sublime-build",
+		"/C/Users/lokki/Desktop/web/finalstyle.css",
+		"/C/Users/lokki/Desktop/web/final.html",
+		"/C/Users/lokki/Desktop/web/testbootstarp.html",
+		"/C/Users/lokki/Desktop/web/testblock.html",
+		"/C/Users/lokki/Desktop/web/formstyle.css",
+		"/C/Users/lokki/Desktop/web/gride.html",
+		"/C/Users/lokki/Desktop/testblock.html",
+		"/C/Users/lokki/Desktop/web/form.html",
+		"/C/Users/lokki/Desktop/web/exemple.html",
+		"/C/Users/lokki/Desktop/blockstyle.css",
+		"/C/Users/lokki/Desktop/style.css",
+		"/C/Users/lokki/Desktop/galerie-achat.html",
+		"/C/Users/lokki/Desktop/exemple.html",
+		"/C/Users/lokki/Documents/bot discord/main.go",
+		"/C/Users/lokki/Downloads/durand-plomberie/pages/front-office/a-propos.html",
+		"/C/Users/lokki/Downloads/durand-plomberie/index.html",
+		"/C/Users/lokki/Desktop/tablature/Sera was never lyrics.txt",
+		"/C/Users/lokki/Desktop/test.py",
+		"/F/Nouveau document texte.txt",
+		"/C/Users/lokki/3D Objects/Figurine_Bust/hana_swimsuit_fv_solid_v1_prusa.gcode",
+		"/X/190°C/hana_swimsuit_fv_solid_v1.gcode",
+		"/C/Users/lokki/Desktop/Marlin-2.0.x/Marlin/Configuration_adv.h",
+		"/C/Users/lokki/Desktop/Marlin-2.0.x/Marlin/Configuration.h",
+		"/C/Users/lokki/Downloads/curaprofileforS8.curaprofile",
+		"/C/Users/lokki/AppData/Roaming/cura/4.6/machine_instances/Creality+CR-10.global.cfg",
+		"/C/Users/lokki/Documents/bot discord/test.txt",
+		"/C/Users/lokki/Desktop/tablature/I am the one lyrics.txt",
+		"/C/Users/lokki/Documents/bot discord/fillament.csv",
+		"/X/BIN1",
+		"/C/Users/lokki/Documents/bot discord/Nouveau.go",
+		"/C/Users/lokki/Documents/Scripte Lua/test.n",
+		"/C/Users/lokki/Documents/Nouveau document texte.txt",
+		"/C/Users/lokki/AppData/Roaming/Sublime Text 3/Packages/User/julia.sublime-build",
+		"/C/Users/lokki/AppData/Roaming/Sublime Text 3/Packages/User/Neko-build.sublime-build",
+		"/C/Users/lokki/AppData/Roaming/Sublime Text 3/Packages/User/Package Control.sublime-settings",
+		"/C/Users/lokki/AppData/Roaming/Sublime Text 3/Packages/User/Neko.sublime-build",
+		"/D/Steel Game/steamapps/common/Starbound/assets/user/songs/Smash Mouth - Allstar.abc",
+		"/C/Users/lokki/3D Objects/calibration/calicat.gcode",
+		"/I/CCR10S_Toothpaste_Roller.gcode",
+		"/C/Users/lokki/Documents/Scripte Lua/cheval.lua",
+		"/C/Users/lokki/3D Objects/Temp tower/180-220_PLA_Temp_calibration.gcode",
+		"/K/SUNLU/Reading before usage.txt",
+		"/C/Users/lokki/3D Objects/température tower/PLA_t_tower_before_layer_change_macro.txt",
+		"/G/SUNLU/Reading before usage.txt",
+		"/C/Users/lokki/AppData/Roaming/CodeBlocks/default.conf",
+		"/C/Lua/bin/wx.dll",
+		"/C/Users/lokki/Desktop/Nouveau document texte (2).txt",
+		"/C/Users/lokki/Documents/Curse/Minecraft/Instances/Enigmatica 2 Expert/config/incontrol/summonaid.json",
+		"/C/Users/lokki/Downloads/PHYSIQUE.83p",
+		"/G/phrase.txt",
+		"/C/Users/lokki/Desktop/untitled.lua",
+		"/C/Users/lokki/Documents/Curse/Minecraft/Instances/Enigmatica 2 Expert/crash-reports/crash-2019-04-01_16.00.25-client.txt",
+		"/D/Doc/WorkspacePython/lulu.nan",
+		"/G/test/.gallery/fa47eee4-634e-47e2-a4bd-bf31e6f72db4/Info.txt"
+	],
+	"find":
+	{
+		"height": 31.0
+	},
+	"find_in_files":
+	{
+		"height": 134.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"for",
+			"<tr>\n\t\t\t\t\t\t<th class=\"\"></th>",
+			"<th></th>",
+			"<tr>\n\t\t\t\t\t\t<th></th>",
+			"matériaux",
+			"/kg",
+			" €",
+			"0g",
+			"g",
+			"  ",
+			"\\$i",
+			"'picture' => ",
+			"'],",
+			"['picture'",
+			"\\['picture' .*\\]",
+			"cadre",
+			"  ",
+			"    ",
+			"\"",
+			"    ",
+			"\\",
+			"/"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+			"\t",
+			" $perso",
+			" ",
+			"'picure' .*",
+			"'",
+			"\\\\"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": false
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 0,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 31.0
+	},
+	"input":
+	{
+		"height": 53.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.SublimeLinter":
+	{
+		"height": 97.0
+	},
+	"output.SublimeLinter Messages":
+	{
+		"height": 144.0
+	},
+	"output.exec":
+	{
+		"height": 162.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.markdown":
+	{
+		"height": 156.0
+	},
+	"output.nodejs":
+	{
+		"height": 144.0
+	},
+	"output.stino_build_panel":
+	{
+		"height": 144.0
+	},
+	"output.stino_panel":
+	{
+		"height": 144.0
+	},
+	"output.unsaved_changes":
+	{
+		"height": 23.0
+	},
+	"pinned_build_system": "Packages/MarkdownPreview/Markdown.sublime-build",
+	"project": "asso.sublime-project",
+	"replace":
+	{
+		"height": 58.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 221.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
