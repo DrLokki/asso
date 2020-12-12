@@ -523,7 +523,7 @@
 			"file": "index.html",
 			"settings":
 			{
-				"buffer_size": 0,
+				"buffer_size": 851,
 				"encoding": "UTF-8",
 				"line_ending": "Windows"
 			}
@@ -687,6 +687,10 @@
 		"side_bar_visible": false,
 		"status_bar_visible": false
 	},
+	"expanded_folders":
+	[
+		"/B/gitLibrary/asso"
+	],
 	"file_history":
 	[
 		"/B/gitLibrary/test/script/script.js",
@@ -888,15 +892,15 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 0,
+						"buffer_size": 851,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								0,
-								0
+								817,
+								817
 							]
 						],
 						"settings":
