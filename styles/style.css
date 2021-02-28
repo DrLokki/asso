@@ -1,0 +1,12 @@
+.logo{
+	height:10rem;
+/*	width:10rem;*/
+}
+
+.wellImage{
+	height : 0.1vw;
+}
+
+.bg-danger2{
+	background-color : rgba(220, 53, 69, 0.5);
+}
