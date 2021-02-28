@@ -1,26 +1,30 @@
 <!DOCTYPE html>
 <html>
 <head>
+	<link rel="stylesheet" type="text/css" href="styles/bootstrap.min.css">
 	<link rel="stylesheet" type="text/css" href="styles/style.css">
+	<meta name="description" content="">
+	<meta name="robots" content="index, page/event.html">
 	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
 	<title>chauve-souris auvergne</title>
 </head>
 <body>
 	<header>
-		<div><img src="img/cropped-2018_Logo-CSA-texte-NOIRE-transparent.png" alt="logo de l'asso"></div>
-		<nav>
-			<ul>
-				<li class="nav"><a href="index.html">Acueil</a></li>
-				<li class="nav"><a href="page/association.html">Association</a></li>
-				<li class="nav"><a href="page/event.html">Evenement</a></li>
-				<li class="nav"><a href="page/contact.html">Contact</a></li>
-				<li class="nav"><a href="page/sos.html">SOS Chauve-Souris</a></li>
-			</ul>
+		<img class="logo rounded mx-auto d-block" src="img/cropped-2018_Logo-CSA-texte-NOIRE-transparent.png" alt="logo de l'asso">
+		<nav class="nav justify-content-center bg-light mt-1">
+			<a class="nav-link active" href="index.html">Acueil</a>
+			<a class="nav-link" href="page/event.html">Evenement</a>
+		</nav>
+		<nav aria-label="breadcrumb">
+			<ol class="breadcrumb">
+				<li class="breadcrumb-item active" aria-current="page">Home</li>
+			</ol>
 		</nav>
 	</header>
 	<main>
-		<section id="wellcome">
-			<img src="img/photochouve.jpg" alt="image de chauve souris">
+		<section class="wellcome">
+			<img class="wellImage" src="img/photochouve.jpg" alt="image de chauve souris">
 			<article>
 				<h2>Bienvenue</h2>
 				<p>Chauve-Souris Auvergne est une association à but non lucratif (loi 1901) dont l’objectif est l’étude et la conservation des chiroptères sur l’ensemble de la région Auvergne. Sur ce site, vous trouverez une multitude d’informations sur les chauves-souris d’Auvergne, nos actions d’études et de conservation, nos publications mais également plusieurs pages consacrées à la conservation des chauves-souris dans les bâtiments.</p>
@@ -34,29 +38,33 @@
 				</ul>
 			</article>	
 		</section>
-		<section id="actu">
-			<h2>Actualité</h2>
-			<article>
+		<section id="actu" class="container">
+			<div class="row justify-content-md-center">
+			<h2 class="col-2">Actualité</h2>
+			</div>
+			<div class="row">
+			<article class="col">
 				<h3>Week end associatif comptage hiver 2019</h3>
 				<p>Découvrez le compte rendu du week end associatif 2019 de Chauve-Souris Auvergne ! CLIQUEZ ICI</p>
 			</article>
-			<article>
+			<article class="col">
 				<h3>DÉPART COMPTAGES HIVERNAUX !</h3>
 				<p>C’est le vingtième!!! Eh oui… peut être ne les avons-nous pas tous vu passer depuis 1998, mais l’hiver 2017-2018 est le vingtième consécutif, durant lequel Chauve-Souris Auvergne coordonne les comptages hivernaux en Auvergne. Objectifs : Améliorer les connaissances sur les populations de chiroptères hibernant en région, Apprécier l’évolution des populations sur le long terme, Assurer une En savoir plus surDépart Comptages Hivernaux ![…]</p>
 			</article>
-			<article>
+			<article class="col">
 				<h3>ÉTUDE GÉNÉTIQUE À PARTIR DU GUANO DES GRANDS RHINOLOPHES</h3>
 				<p> Dans le Pays des Couzes, dans le sud du Puy-de-Dôme, Chauve-Souris Auvergne a cette année débuté une étude un peu particulière sur la population de Grands Rhinolophes de ce secteur.   Grâce à des fonds du site Natura 2000 « Gîtes à chiroptères du Pays des Couzes », et à l’aide technique de notre collègue Sébastien En savoir plus surÉtude génétique à partir du guano des Grands Rhinolophes[…]</p>
 			</article>
-			<article>
+			<article class="col">
 				<h3>CANTAL INFO</h3>
 				<p>Vous souvenez vous des nichoirs du Nieudan ?   Nous vous avions annoncé le lancement de ce programme l’année dernière le 28 juillet. Le premier contrôle révèle déjà une chauve-souris installée dans un de ces nichoirs ! Ce résultat est prometteur car il est rare que les nichoirs soient occupés aussi rapidement après leur En savoir plus surCantal info[…]</p>
 			</article>
+			</div>
 		</section>
-		<section id="sos">
-			<h2>SOS Chauve-Souris</h2>
+		<section class="bg-danger2" >
+			<h2 class="bg-danger bg-gradient">SOS Chauve-Souris</h2>
 			<p>Un animal blessé ? Des chauves-souris chez vous ?</p>
-			<button class="btn">Chauves-Souris SOS</button>
+			<button class="btn" onclick="window.location.href='https://www.sfepm.org/sos-chauves-souris.html'">Chauves-Souris SOS</button>
 		</section>
 	</main>
 	<footer>
